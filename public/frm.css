@@ -1,0 +1,22 @@
+*{
+margin: 0;
+padding: 0
+}
+body{
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(std2.jpg);
+height: 100vh;
+background-size: cover;
+background-position: center;
+}
+.fr{
+position: absolute;
+top: 30%;
+left: 40%;
+}
+.ip{
+font-size: 25px;
+}
+button{
+padding: 8px;
+font-size: 23px;
+}
